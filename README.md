@@ -28,7 +28,8 @@ I'm a full stack developer and a fresher Data Analyst looking for Successfull Ca
 This project focuses on exploring and visualizing COVID-19 data using SQL for data exploration and Tableau for data visualization. The project includes SQL queries that analyze various aspects of the COVID-19 pandemic, such as death rates and vaccination statistics, and uses this data to create an interactive Tableau dashboard.
 
 ## Table of Contents
-- [Portfolio Project Screenshots](#portfolio-project-screenshots)
+- [Portfolio Project](#portfolio-project)
+- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage/Examples](#usageexamples)
 - [Features](#features)
