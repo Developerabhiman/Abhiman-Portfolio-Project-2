@@ -143,5 +143,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
-I am very thankfull to Proffesional Data Analyst Alex Freberg   (https://www.linkedin.com/in/alex-freberg/) and Analyst Builder(https://www.linkedin.com/company/analyst-builder/) to help me in my beutifull journey as a fresher to become sucessfull sucessfull data analyst.
+ - I am very thankfull to Proffesional Data Analyst Alex Freberg(https://www.linkedin.com/in/alex-freberg/) and Analyst Builder(https://www.linkedin.com/company/analyst-builder/) to help me in my beutifull 
+    journey as a fresher to become sucessfull data analyst.
  
