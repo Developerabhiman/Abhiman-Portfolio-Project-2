@@ -16,6 +16,14 @@ I'm a full stack developer and a fresher Data Analyst looking for Successfull Ca
 
 # COVID-19 Data Exploration and Visualization
 
+## Badges
+
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
 ## Introduction
 This project focuses on exploring and visualizing COVID-19 data using SQL for data exploration and Tableau for data visualization. The project includes SQL queries that analyze various aspects of the COVID-19 pandemic, such as death rates and vaccination statistics, and uses this data to create an interactive Tableau dashboard.
 
